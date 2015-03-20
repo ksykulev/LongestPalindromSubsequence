@@ -1,6 +1,7 @@
 # LongestPalindromSubsequence
 To run
 ```
-$ rspec palindrom_spec.rb 
+$ bundle install
+$ rspec palindrom_spec.rb
 ```
 
