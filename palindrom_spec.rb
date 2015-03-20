@@ -34,7 +34,7 @@ RSpec.describe LongestPalindromSubsequence do
         let(:string) { 'race car' }
 
         it 'returns the string' do
-          expect(subject).to eq(string)
+          expect(subject).to eq('racecar')
         end
       end
 
